@@ -1,9 +1,9 @@
 cadena="python"
 y=len(cadena)
 a=1
-b=-len(cadena)
+b=0
 x=0
-y=0
+
 while x <= a:
     x+=1
     print(cadena[0:x])
